@@ -1,4 +1,4 @@
-### root@shameful# whoami
+### root@shameful # whoami
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently an OSCP student
